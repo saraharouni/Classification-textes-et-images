@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/saraharouni/Classification-textes-et-images/blob/main/logo.png?raw=true" alt="Alt Text">
+</p>
 
 # Classification-textes-et-images
 
