@@ -23,7 +23,7 @@ Plusieurs approches de modélisation :
 
 **Extraction des features image :**
 
-* Un algorithme de type **SIF**.
+* Un algorithme de type **SIFT**.
 * Un algorithme de type **CNN Transfer Learning**.
 
 L'objectif est de **démontrer que nous pouvons regrouper automatiquement des produits de même catégorie en utilisant ces approches de modélisation**.
